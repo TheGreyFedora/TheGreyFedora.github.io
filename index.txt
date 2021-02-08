@@ -1,0 +1,10 @@
+<head>
+<title>Grey ♥</title>
+<link rel="stylesheet" type="text/css" href"index_css.css">
+</head>
+<body>
+<script src="index_js.js"></script>
+<div class="container">
+  <div class="text"></div>
+</div>
+</body>
